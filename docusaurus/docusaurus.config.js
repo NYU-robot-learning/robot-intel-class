@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Robot Intelligence',
   tagline: 'Spring 2022',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://nyu-robot-learning.github.io/',
+  baseUrl: '/robot-intel-class/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'NYU', // Usually your GitHub org/user name.
-  projectName: 'robot-int', // Usually your repo name.
+  organizationName: 'new-york-university', // Usually your GitHub org/user name.
+  projectName: 'nyu-deep-rlt', // Usually your repo name.
 
   presets: [
     [
