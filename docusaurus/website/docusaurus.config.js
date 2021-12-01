@@ -9,12 +9,12 @@ const config = {
   title: 'Robot Intelligence',
   tagline: 'Spring 2022',
   url: 'https://nyu-robot-learning.github.io/',
-  baseUrl: '/robot-intel-class/',
+  baseUrl: '/robot-intelligence-class/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'new-york-university', // Usually your GitHub org/user name.
-  projectName: 'nyu-deep-rlt', // Usually your repo name.
+  projectName: 'robot-intel-class', // Usually your repo name.
 
   presets: [
     [
