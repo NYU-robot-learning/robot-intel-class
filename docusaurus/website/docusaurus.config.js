@@ -9,7 +9,7 @@ const config = {
   title: 'Robot Intelligence',
   tagline: 'Spring 2022',
   url: 'https://nyu-robot-learning.github.io/',
-  baseUrl: '/robot-intelligence-class/',
+  baseUrl: '/robot-intel-class/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
