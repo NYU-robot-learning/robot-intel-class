@@ -8,7 +8,13 @@ on:
     branches: [ gh-pages ]
   pull_request:
     branches: [ gh-page ]
-
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+        
 defaults:
   run:
     working-directory: docusaurus/website
