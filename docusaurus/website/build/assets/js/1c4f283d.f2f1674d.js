@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel=self.webpackChunkrobot_intel||[]).push([[905],{7701:function(l){l.exports=JSON.parse('{"allTagsPath":"/robot-intel-class/blog/tags","slug":"/robot-intel-class/blog/tags/lab","name":"lab","count":1,"permalink":"/robot-intel-class/blog/tags/lab"}')}}]);

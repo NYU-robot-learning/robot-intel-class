@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Robot Intelligence Blog</title>
+        <link>https://nyu-robot-learning.github.io/robot-intel-class/blog</link>
+        <description>Robot Intelligence Blog</description>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Assignment 1]]></title>
+            <link>https://nyu-robot-learning.github.io/robot-intel-class/blog/first-assignment</link>
+            <guid>first-assignment</guid>
+            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Check back here for your first assignment & additional details.]]></description>
+            <content:encoded><![CDATA[<p>Check back here for your first assignment &amp; additional details.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
