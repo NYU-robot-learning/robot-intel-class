@@ -1,7 +1,6 @@
 ---
 title: Syllabus
 ---
-
 # Course Content
 
 **Class 1:** Introduction + Robot anatomy  

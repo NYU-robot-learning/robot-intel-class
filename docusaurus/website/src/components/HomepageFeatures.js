@@ -4,43 +4,43 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Lectures',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        5.10pm-7.00pm on Fridays at <u>60FA 110 </u><br />
+        <strong> Each week </strong> consists of a lecture. <br />
+        Lectures will be held <strong> in person</strong> . <br />
+        The class will be recorded, we will post the link to the recorded lectures to the 
+        <a href="https://campuswire.com/c/G7204E992/"> class campuswire</a>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Resources',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This class is quite broad and hence there is no one textbook.
+        Each lecture/topic will hence be accompanied with online reading material and chapters of relevant textbooks. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Course Staff & Office Hours',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+        Instructor: <a href="https://www.lerrelpinto.com/"> Lerrel Pinto</a><br />
+        <i>office hours: Wed 4-5pm</i><br />
+        Assistants: Ben Evans & Sneha Silwal <br />
+        <i>office hours: Mon & Fri 4-5pm</i><br />
+        <strong>OH will be held over Zoom.</strong><br />
+     </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
-      </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
