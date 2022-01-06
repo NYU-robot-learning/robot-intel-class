@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrobot_intel=self.webpackChunkrobot_intel||[]).push([[212],{9895:function(e){e.exports=JSON.parse('{"allTagsPath":"/robot-intelligence-class/blog/tags","slug":"/robot-intelligence-class/blog/tags/review","name":"review","count":1,"permalink":"/robot-intelligence-class/blog/tags/review"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrobot_intel=self.webpackChunkrobot_intel||[]).push([[86],{6686:function(e){e.exports=JSON.parse('{"permalink":"/robot-intelligence-class/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
