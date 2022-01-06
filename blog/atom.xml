@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nyu-robot-learning.github.io/robot-intel-class/blog</id>
+    <id>https://nyu-robot-learning.github.io/robot-intelligence-class/blog</id>
     <title>Robot Intelligence Blog</title>
-    <updated>2019-05-28T00:00:00.000Z</updated>
+    <updated>2021-01-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nyu-robot-learning.github.io/robot-intel-class/blog"/>
+    <link rel="alternate" href="https://nyu-robot-learning.github.io/robot-intelligence-class/blog"/>
     <subtitle>Robot Intelligence Blog</subtitle>
-    <icon>https://nyu-robot-learning.github.io/robot-intel-class/img/favicon.ico</icon>
+    <icon>https://nyu-robot-learning.github.io/robot-intelligence-class/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Assignment 1]]></title>
+        <title type="html"><![CDATA[Homework 0]]></title>
         <id>first-assignment</id>
-        <link href="https://nyu-robot-learning.github.io/robot-intel-class/blog/first-assignment"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Check back here for your first assignment & additional details.]]></summary>
-        <content type="html"><![CDATA[<p>Check back here for your first assignment &amp; additional details.</p>]]></content>
+        <link href="https://nyu-robot-learning.github.io/robot-intelligence-class/blog/first-assignment"/>
+        <updated>2021-01-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is homework 0]]></summary>
+        <content type="html"><![CDATA[<p>This is homework 0: make a copy and write your own answers:
+<a href="https://colab.research.google.com/drive/1k2seS_YcBH88BKY1GOPTRewBl1cjJmFa?usp=sharing">https://colab.research.google.com/drive/1k2seS_YcBH88BKY1GOPTRewBl1cjJmFa?usp=sharing</a></p><p>Be sure that the link you submit is viewable by others.</p>]]></content>
     </entry>
 </feed>

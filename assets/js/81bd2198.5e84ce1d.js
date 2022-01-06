@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrobot_intel=self.webpackChunkrobot_intel||[]).push([[833],{853:function(t){t.exports=JSON.parse('{"allTagsPath":"/robot-intel-class/blog/tags","slug":"/robot-intel-class/blog/tags/kinematics","name":"kinematics","count":1,"permalink":"/robot-intel-class/blog/tags/kinematics"}')}}]);

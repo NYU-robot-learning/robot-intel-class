@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel=self.webpackChunkrobot_intel||[]).push([[432],{3755:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var u=n(7294),l=n(4814);function r(){return u.createElement(l.Z,null,u.createElement("h1",null,"Logistics"),u.createElement("p",null,"Put the contents of the course here."))}}}]);
