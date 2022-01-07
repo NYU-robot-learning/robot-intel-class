@@ -52,7 +52,7 @@ const config = {
         items: [
           {to: '/logistics', label: 'Logistics', position: 'left'},
           {to: '/syllabus', label: 'Syllabus', position: 'left'},
-          {to: '/blog', label: 'Assignments', position: 'left'},
+          {to: '/assignments', label: 'Assignments', position: 'left'},
           // {
           //   type: 'doc',
           //   docId: 'intro',
