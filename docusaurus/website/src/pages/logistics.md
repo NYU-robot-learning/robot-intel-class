@@ -7,16 +7,17 @@ title: Logistics
 * Coding in Python and familiarity with Ubuntu OS.
 
 ## Logistical Overview
+
 ### Lecture
-* 5.10pm-7.00pm on Fridays at 60FA 110.
-* Lectures will be held once a week in person.
+* 3.30pm-4.45pm on Mondays and Wednesdays at 60FA C15.
+* Lectures will be held twice a week in person.
 * The class will be recorded, we will post the link to the recorded lectures to the class campuswire.
 
 ### Course Staff & Office Hours
 * Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
-* Office Hours:  Wed 4-5pm
-* Assistants: Ben Evans & Sneha Silwal
-* Office Hours: Mon & Fri 4-5pm
+* Office Hours:  Wed 5-6pm
+* Teaching Assistants: Ben Evans & Sneha Silwal
+* Office Hours: Mon 5-6pm
 
 ### Grading
 1. Homeworks (45%)
@@ -36,5 +37,6 @@ title: Logistics
 
 
 ## Remarks
+* NYU accessible website is available [here](https://wp.nyu.edu/courantinstituteofmathematicalsciences-robot_intell_sp22/).
 * A student in this course is expected to act professionally. Please also follow the GSAS regulations on academic integrity found here: http://gsas.nyu.edu/page/academic.integrity
 * Academic accommodations are available for students with disabilities. Please contact the Moses Center for Students with Disabilities (212-998-4980 or mosescsd@nyu.edu) for further information. Students who are requesting academic accommodations are advised to reach out to the Moses Center as early as possible in the semester for assistance.
