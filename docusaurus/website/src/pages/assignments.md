@@ -2,6 +2,8 @@
 title: Assignments
 ---
 
+# Homework 0 - Preliminaries for the class.
+
 This is homework 0: make a copy and write your own answers:
 https://colab.research.google.com/drive/1k2seS_YcBH88BKY1GOPTRewBl1cjJmFa?usp=sharing
 
