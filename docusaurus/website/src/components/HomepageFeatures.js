@@ -9,7 +9,7 @@ const FeatureList = [
     description: ('Instructor'),
   },
   {
-    title: (<a href="https://www.strava.com/athletes/39605247?oq=ben%20eva/"> Ben Evans </a>),
+    title: 'Ben Evans',
     image_path: './img/ben.png',
     description: ('Teaching Assistant'),
   },
