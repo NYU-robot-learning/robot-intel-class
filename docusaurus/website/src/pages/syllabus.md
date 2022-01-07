@@ -3,9 +3,9 @@ title: Syllabus
 ---
 # Course Content
 
-| wk | Lecture | Related Links |
+| Date | Lectures and Homeworks | Related Links |
 |---|---|---|
-| 1/06 | HW-0 Release | [HW 0](http://localhost:3000/robot-intel-class/blog/first-assignment) <br /> 1. [Learn Git](https://learngitbranching.js.org/?locale=en_US) <br /> 2.[Linux Terminal Game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) <br /> 3. [Learn Shell](https://www.learnshell.org/) <br /> 4. [Linux Journey](https://linuxjourney.com/)|
+| 01/06/2022 | HW-0 Release | Link to [HW 0](http://localhost:3000/robot-intel-class/blog/first-assignment) <br /> Other useful links:<br /> 1. [Learn Git](https://learngitbranching.js.org/?locale=en_US) <br /> 2. [Linux Terminal Game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) <br /> 3. [Learn Shell](https://www.learnshell.org/) <br /> 4. [Linux Journey](https://linuxjourney.com/)|
 | 1/24/2022 | ** Class 1: Introduction to the course ** <ul><li>What is a Robot?</li><li>The anatomy of a robot</li><li>Role of intelligence in robotics</li></ul> | 1. [Anatomy of a Robot.](http://motion.cs.illinois.edu/RoboticSystems/AnatomyOfARobot.html) <br />2. [Isaac Asimov's Robot Series](https://www.penguinrandomhouse.com/series/RBS/the-robot-series) |
 | | <h3> Part 1:  Rigid Body Mechanics </h3>  | |
 | 01/26/2022 | ** Class 2:** Introduction to robot geometry; What is a link, joint, and actuator?; How do we mathematically model a robot? |1. Chapter 1 of [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf) |
@@ -34,21 +34,21 @@ title: Syllabus
 | | <h3>Part 6: Advanced Topics</h3> | |
 | 04/13/2022 |  ** Class 21: ** Model Predictive Control.| 1. Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
 | 04/18/2022 |  ** Class 22: ** Imitation Learning| |
-| 04/20/2022 | Class 23: Reinforcement Learning with Policy Gradients.| |
-| 04/25/2022 | Class 24: Simulation to Real learning.| |
-| 04/27/2022 | Class 25: Computer Vision for Robotics.| |
+| 04/20/2022 | ** Class 23: ** Reinforcement Learning with Policy Gradients.| |
+| 04/25/2022 | ** Class 24: ** Simulation to Real learning.| |
+| 04/27/2022 | ** Class 25: ** Computer Vision for Robotics.| |
 | 05/02/2022 | Guest Lecture 1: TBA| |
 | 05/04/2022 | Guest Lecture 2: TBA| |
-| 05/09/2022 | Final Projects.| |
+| 05/09/2022 | Final Project Presentations.| |
 
 
 
 ## Related Courses
-https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/
+1. [MIT OCW Introduction to Robotics](https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/)
 
-https://courses.cs.washington.edu/courses/cse490r/19sp/
+2. [UW Mobile Robots](https://courses.cs.washington.edu/courses/cse490r/19sp/)
 
-https://www.cc.gatech.edu/~hic/8803-Mobile-08/slides/1_draft.pdf
+3. [MLS textbook](http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf)
 
-http://www.cse.lehigh.edu/~trink/Courses/RoboticsII/reading/murray-li-sastry-94-complete.pdf
+4. [Kris Hauser's Robotic Systems draft](https://motion.cs.illinois.edu/RoboticSystems/)
 
