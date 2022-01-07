@@ -11,12 +11,12 @@ const FeatureList = [
   {
     title: (<a href="https://www.strava.com/athletes/39605247?oq=ben%20eva/"> Ben Evans </a>),
     image_path: './img/ben.png',
-    description: ('Course Assistant'),
+    description: ('Teaching Assistant'),
   },
   {
     title: (<a href="http://www.ssilwal.com/"> Sneha Silwal </a>),
     image_path: './img/sneha.png',
-    description: ('Course Assistant'),
+    description: ('Teaching Assistant'),
   },
 ];
 
