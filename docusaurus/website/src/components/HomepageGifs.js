@@ -7,19 +7,13 @@ import styles from './HomepageFeatures.module.css';
 const GifList = [
   {
     img_filename: './img/car.gif',
-  },
-  {
-    img_filename: './img/car.gif',
-  },
-  {
-    img_filename: './img/car.gif',
-  },
+  }
 ];
 
 function HomepageImage({img_filename}) {
   return (
-    <div className={clsx('col col--4')}>     
-      <div className="text--center padding-horiz--md">
+    <div className={clsx('col')}>     
+      <div className="text--center padding-horiz--md car-gif">
         <img src={img_filename} />
       </div>
     </div>

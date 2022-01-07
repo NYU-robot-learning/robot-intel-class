@@ -36,7 +36,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <div className="row profile-photos">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
