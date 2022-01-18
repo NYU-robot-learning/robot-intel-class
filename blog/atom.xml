@@ -12,8 +12,7 @@
         <id>first-assignment</id>
         <link href="https://nyu-robot-learning.github.io/robot-intel-class/blog/first-assignment"/>
         <updated>2021-01-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is homework 0 (WILL BE UPDATED SOON)]]></summary>
-        <content type="html"><![CDATA[<p>This is homework 0: make a copy and write your own answers: (WILL BE UPDATED SOON)
-Be sure that the link you submit is viewable by others.</p>]]></content>
+        <summary type="html"><![CDATA[This is homework 0 make a copy to write your own answers.]]></summary>
+        <content type="html"><![CDATA[<p>This is <a href="https://colab.research.google.com/drive/1j6hXjwRNqkDUQmY12LpYbs8OrDS9QSXt">homework 0</a> make a copy to write your own answers.</p>]]></content>
     </entry>
 </feed>
