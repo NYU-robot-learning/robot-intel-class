@@ -4,7 +4,4 @@ title: Assignments
 
 # Homework 0 - Preliminaries for the class.
 
-This is homework 0: make a copy and write your own answers:
-https://colab.research.google.com/drive/1k2seS_YcBH88BKY1GOPTRewBl1cjJmFa?usp=sharing
-
-Be sure that the link you submit is viewable by others.
+This is [homework 0](https://colab.research.google.com/drive/1j6hXjwRNqkDUQmY12LpYbs8OrDS9QSXt) make a copy to write your own answers.
