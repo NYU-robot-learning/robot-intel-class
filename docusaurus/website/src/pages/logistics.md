@@ -10,7 +10,8 @@ title: Logistics
 
 ### Lecture
 * 3.30pm-4.45pm on Mondays and Wednesdays at 60FA C15.
-* Lectures will be held twice a week in person.
+* Lectures will be held twice a week in person. 
+* The google calendar may be accessed [here](https://calendar.google.com/calendar/u/0?cid=Y185dTVwNDVmaDV2MHBxaW92NGRmNXZ1bmhoNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). (Access w/ NYU email.)
 * The class will be recorded, we will post the link to the recorded lectures to the class campuswire.
 
 ### Course Staff & Office Hours
