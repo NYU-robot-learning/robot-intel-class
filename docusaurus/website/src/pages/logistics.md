@@ -18,7 +18,7 @@ title: Logistics
 * Instructor: [Lerrel Pinto](https://www.lerrelpinto.com/)
 * Office Hours:  Wed 5-6pm
 * Teaching Assistants: Ben Evans & Sneha Silwal
-* Office Hours: Thurs 3:00-4:30pm
+* Office Hours: Mon 5:00-6:00, Thurs 3:00-4:30pm
 * Office Hours Location: 60 Fifth Ave, Room 540
 
 ### Grading
