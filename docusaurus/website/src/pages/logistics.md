@@ -19,7 +19,7 @@ title: Logistics
 * Office Hours:  Wed 5-6pm
 * Teaching Assistants: Ben Evans & Sneha Silwal
 * Office Hours: Mon 5:00-6:00, Thurs 3:00-4:30pm
-* Office Hours Location: 60 Fifth Ave, Room 540
+* Office Hours Location: 60 Fifth Ave, Room 540 AND Google Meet (see calendar)
 
 ### Grading
 1. Homeworks (45%)
