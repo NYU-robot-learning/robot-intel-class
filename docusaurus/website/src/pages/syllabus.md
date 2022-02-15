@@ -32,13 +32,14 @@ title: Syllabus
 | 03/28/2022 | **Class 16:** Introduction to planning and configuration spaces. | 1. Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
 | 03/30/2022 | **Class 17:** Building a heuristic planner: A* |1. Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/) |
 | 04/04/2022 | ** Class 18: ** Planning in high dimensions using sampling based planners (RRT) | 1. Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
-| 04/04/2022  | HW4 due. ||
+| 04/04/2022  | HW5 released. HW4 due. ||
 | | <h3>Part 5: Trajectory Optimization</h3> | |
 | 04/06/2022 | ** Class 19: ** Making the plans executable; Practical considerations.| 1. Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
 | 04/11/2022 | ** Class 20: ** Viewing the entire trajectory generation process as an optimization procedure. | 1. Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
 | | <h3>Part 6: Advanced Topics</h3> | |
 | 04/13/2022 |  ** Class 21: ** Model Predictive Control.| 1. Section III of [Robotic Systems](https://motion.cs.illinois.edu/RoboticSystems/)|
 | 04/18/2022 |  ** Class 22: ** Imitation Learning| |
+| 04/18/2022  | HW5 due. ||
 | 04/20/2022 | ** Class 23: ** Reinforcement Learning with Policy Gradients.| |
 | 04/25/2022 | ** Class 24: ** Simulation to Real learning.| |
 | 04/27/2022 | ** Class 25: ** Computer Vision for Robotics.| |
